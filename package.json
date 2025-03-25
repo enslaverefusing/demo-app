@@ -1,0 +1,15 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "description": "Demo application for ArgoCD and Flux image automation testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "MIT"
+}

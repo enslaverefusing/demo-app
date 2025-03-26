@@ -1,6 +1,6 @@
 {
   "name": "demo-app",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Demo application for ArgoCD and Flux image automation testing",
   "main": "app.js",
   "scripts": {
